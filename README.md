@@ -11,4 +11,6 @@ Be sure to change the redirect URI inside of login.php and index.php as well as 
 CHANGE PERMISSIONS ON YOUR FILES
 Otherwise credentials will be publicly visible by just navigating to it
 
+Optional: Add to crontab to run regularly to have this be a reoccuring daily / weekly script
+
 Todo: Implement encryption on the credentials file so it's not plaintext, should be pretty straightforward
